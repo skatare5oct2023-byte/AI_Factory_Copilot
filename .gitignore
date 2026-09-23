@@ -1,0 +1,6 @@
+.env
+chroma_db/316bfbeb-5db4-4a73-8413-499ebf9d1157/data_level0.bin
+chroma_db/316bfbeb-5db4-4a73-8413-499ebf9d1157/header.bin
+chroma_db/316bfbeb-5db4-4a73-8413-499ebf9d1157/length.bin
+chroma_db/316bfbeb-5db4-4a73-8413-499ebf9d1157/link_lists.bin
+chroma_db/chroma.sqlite3
